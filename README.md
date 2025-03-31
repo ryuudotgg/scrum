@@ -35,7 +35,7 @@ Ensure you have the following installed:
 1. Clone the repository
    ```
    git clone ssh@github.com:ryuudotgg/scrum.git
-   cd scrum-board
+   cd scrum
    ```
 
 2. Install dependencies
